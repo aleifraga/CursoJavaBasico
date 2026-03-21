@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         Celular celularA = new Celular();
-        celularA.nome = "Iphone 12";
+        celularA.nome = "Iphone 12 ";
         celularA.tamanhoTela = 6.1F;
         celularA.armazenamento = 256;
         celularA.sistemaOperacional = "IOS";
