@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "tipos_promitivos/src",
+        "primeiroprograma/src",
+        "primeiroprograma",
         "SiwngJframe/src",
-        "primeiroprograma/src"
+        "janela_calculadora/src"
     ]
 }
